@@ -307,7 +307,7 @@ RadialMenu.prototype.createMenu = function (classValue, levelItems, nested) {
     centerIcon.setAttribute('width', '40'); // Set image width to make it bigger
     centerIcon.setAttribute('height', '40'); // Set image height to make it bigger
     // Use direct image URL
-    centerIcon.setAttribute('href', nested ? 'https://cdn.discordapp.com/attachments/645384809740369929/1366416155362856970/gpt.png?ex=6810ddb6&is=680f8c36&hm=e958abb80654a9d8ad28cb4ecdb975ff2d4ba4d305449f56dcbd4e86d6768e25&' : 'https://cdn.discordapp.com/attachments/645384809740369929/1366416155362856970/gpt.png?ex=6810ddb6&is=680f8c36&hm=e958abb80654a9d8ad28cb4ecdb975ff2d4ba4d305449f56dcbd4e86d6768e25&');
+    centerIcon.setAttribute('href', nested ? 'https://r2.fivemanage.com/MgFCKRP0eINANwWqZjVAS/bloody.png' : 'https://r2.fivemanage.com/MgFCKRP0eINANwWqZjVAS/bloody.png');
     centerG.appendChild(centerIcon);
     
     
