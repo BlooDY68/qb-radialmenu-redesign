@@ -1,5 +1,7 @@
 # qb-radialmenu-redesign
 
+my discord: https://discord.gg/wV8dskz7Wm
+
 small changes for paradise radial menu 
 
 preview:
@@ -7,4 +9,4 @@ preview:
 
 credits: https://github.com/PARADISESCRIPTS/qb-radialmenu
 
-my discord: https://discord.gg/procode
+
